@@ -93,7 +93,6 @@ class TestFollowPath(unittest.TestCase):
 
     def test_next_step(self):
         path = FollowPath(MAP_2)
-        self.assertEqual(path.next_step(), (None, None))
         path.set_starting_position()
         path.next_step()
         self.assertEqual(path.position, (2, 0))

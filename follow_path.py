@@ -121,9 +121,6 @@ class FollowPath:
         """
         Finds next step in a matrix, updates position and direction.
         """
-        if not self.position:
-            return None, self.direction
-
         self.position, self.direction = self.find_next_position()
 
         if self.position:
