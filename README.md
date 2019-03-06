@@ -9,8 +9,8 @@ This script requires **Python** `3.4` or higher.
 
 ## How to use
 
-Script can be used by either specifying the paths to files, or passing
-the input directly.
+Script can be used by either specifying the paths to files, or passing the
+input directly.
 
 ```sh
 $ python follow_path.py examples/map1.txt
