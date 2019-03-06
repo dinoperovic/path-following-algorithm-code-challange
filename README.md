@@ -1,5 +1,8 @@
 # Path following algorithm (Code challange)
 
+[![Travis branch](https://img.shields.io/travis/dinoperovic/path-following-algorithm-code-challange/master.svg)](https://travis-ci.org/dinoperovic/path-following-algorithm-code-challange)
+[![Codecov](https://img.shields.io/codecov/c/github/dinoperovic/path-following-algorithm-code-challange.svg)](http://codecov.io/github/dinoperovic/path-following-algorithm-code-challange)
+
 Path following algorithm in ASCII Map.
 
 This script requires **Python** `3.4` or higher.
